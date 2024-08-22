@@ -56,12 +56,6 @@ if (num > 0);
 {Console.WriteLine("Este número é positivo");}
 
 }*/
-/*Questão 5*/
-{
-
-for (int i = 10;i <= 10;i--);
-
-}
 
 /*Questão 6
 {
